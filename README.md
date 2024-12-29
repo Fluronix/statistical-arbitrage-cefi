@@ -1,4 +1,4 @@
-# statistical-arbitrage-cef
+# statistical-arbitrage-cefi
 
 This is the prototype of the statistical arbitrage bot.
 Statistical arbitrage is a popular trading strategy that involves taking advantage of price differences between correlated assets. 
