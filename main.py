@@ -27,7 +27,7 @@ async def cleanup(exchange):
     
 async def main():
     print(Fore.YELLOW+"WARNING: This is a prototype bot for experimental purposes. There is no guarantee of profit!")
-    # These function should be run once only when you want to structure cointegrated pairs--------------------------------------
+    #NOTE These methods should be call once only when you want to structure cointegrated pairs--------------------------------------
     derivative_symbols = await module.get_derivative_symbols() # {symbol: [size_limit, precision, contractSize, maxLeverage]}
 
     print("geting df_market_close_prices...")
