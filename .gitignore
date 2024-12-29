@@ -1,0 +1,11 @@
+beta
+images
+venv
+.ipynb_checkpoints/
+backtester.py
+test.py
+.DS_Store
+*.csv
+*.zip
+*.ipynb
+
