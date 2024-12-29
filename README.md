@@ -15,7 +15,7 @@ python 3.10 (or later) installed
 1. Clone the repository:
    
         git clone https://github.com/Fluronix/statistical-arbitrage-cefi.git
-        cd base-arbitrage-bot
+        cd statistical-arbitrage-cefi
 2. create and activate virtual environment
 
         python3 -m venv venv  
