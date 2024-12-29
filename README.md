@@ -32,7 +32,8 @@ python 3.10 (or later) installed
         pip install --upgrade pip 
         pip install -r requirements.txt 
 
-3. Config
+3. Config:
+
     cd to utils and set your params in the func.py
 
           TELEGRAM_BOT_API:str = "" #paste your telegram bot token
@@ -41,6 +42,6 @@ python 3.10 (or later) installed
           BYBIT_API_KEY:str = "" #paste your API key
           BYBIT_API_SECRET:str = "" #paste your API secret key
 
-4. Run CMD
+5. Run CMD
 
     run python3 main.py and python3 manage.py in different CLI
